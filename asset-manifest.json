@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AkitaCoin/static/css/main.22acc3f0.css",
-    "main.js": "/AkitaCoin/static/js/main.ffadf4b2.js",
+    "main.js": "/AkitaCoin/static/js/main.b6ef4221.js",
     "reactPlayerYouTube.js": "/AkitaCoin/static/js/reactPlayerYouTube.de41ea30.chunk.js",
     "reactPlayerSoundCloud.js": "/AkitaCoin/static/js/reactPlayerSoundCloud.20d08924.chunk.js",
     "reactPlayerVimeo.js": "/AkitaCoin/static/js/reactPlayerVimeo.5e1a8b96.chunk.js",
@@ -46,7 +46,7 @@
     "static/media/arrow1.svg": "/AkitaCoin/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/AkitaCoin/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.22acc3f0.css.map": "/AkitaCoin/static/css/main.22acc3f0.css.map",
-    "main.ffadf4b2.js.map": "/AkitaCoin/static/js/main.ffadf4b2.js.map",
+    "main.b6ef4221.js.map": "/AkitaCoin/static/js/main.b6ef4221.js.map",
     "reactPlayerYouTube.de41ea30.chunk.js.map": "/AkitaCoin/static/js/reactPlayerYouTube.de41ea30.chunk.js.map",
     "reactPlayerSoundCloud.20d08924.chunk.js.map": "/AkitaCoin/static/js/reactPlayerSoundCloud.20d08924.chunk.js.map",
     "reactPlayerVimeo.5e1a8b96.chunk.js.map": "/AkitaCoin/static/js/reactPlayerVimeo.5e1a8b96.chunk.js.map",
@@ -65,6 +65,6 @@
   },
   "entrypoints": [
     "static/css/main.22acc3f0.css",
-    "static/js/main.ffadf4b2.js"
+    "static/js/main.b6ef4221.js"
   ]
 }
